@@ -22,4 +22,5 @@ Insights:-
 ->In the incident, 61.95% of casualties happened in urban areas and 38.05% of casualties happened in rural areas.
 ->During the daytime, 73.84% of casualties occurred, while 26.16% of casualties occurred in the dark.
 ->The year 2022 saw a gradual decrease in comparison to the year 2021.
-->Regarding the map feature, it can be used to analyze the causalities based on their location
+->Regarding the map feature, it c![Car Accident Analysis](https://github.com/Miridul123/Car-Accident-Analysis/assets/145829074/788daab3-7f83-4935-981f-aaa6ef789397)
+an be used to analyze the causalities based on their location
