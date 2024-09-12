@@ -1,18 +1,19 @@
 # Car-Accident-Analysis
-Ro🚨 Accident Analysis 📊 for the year 2021-22 📅.
- 📣 A Power BI Project for Road Accidents with Data-Driven Insights and Critical Factors Behind the Accidents/Casualties📊.
-The report offers a complete overview of road accidents, covering various aspects🚨--
+This is a project I replicated from a Youtube playlist.
+1.Ro🚨 Accident Analysis 📊 for the year 2021-22 📅.
+2. 📣 A Power BI Project for Road Accidents with Data-Driven Insights and Critical Factors Behind the Accidents/Casualties📊.
+3.The report offers a complete overview of road accidents, covering various aspects🚨--
 Sure, there's a more description rewrite of the text:
-The entire process can be broken down into the following steps:-
-📂 Loading the Excel files to PowerBI
-📌 Data Cleaning and Data Transformations in Power Query
-📌 Data Processing
-📌 KPI Generations
-📌 Create Calculated measure values and columns
-📷 Imported Images
-🕰 Calendar Date Table in Power BI
-⌛ Calculated YTD and YoY Growth using DAX
-Insights:-
+## The entire process can be broken down into the following steps:-
+1.📂 Loading the Excel files to PowerBI
+2.📌 Data Cleaning and Data Transformations in Power Query
+3.📌 Data Processing
+4.📌 KPI Generations
+5.📌 Create Calculated measure values and columns
+6.📷 Imported Images
+7.🕰 Calendar Date Table in Power BI
+8.⌛ Calculated YTD and YoY Growth using DAX
+## Insights
 ->The number of casualties in 2022 decreased by 11.9% to 196k from 2021.
 ->The number of accidents in 2022 decreased by 11.7% to 144k compared to the previous year, 2021.
 ->There was a decrease of 33.3% in casualties from 2021 to 2022, with the total number being 2.9k.
